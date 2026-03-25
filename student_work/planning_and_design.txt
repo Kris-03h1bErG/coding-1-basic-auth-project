@@ -5,31 +5,44 @@ APP PLANNING & DESIGN
 1. PROJECT NAME & THEME
 -------------------------
 - What is your app called, and what type of app is it?  
+"IP Roulette", it's a roulette wheel.
 - What style or vibe do you want users to experience?
+I want the users to experience the thrill of gambling with their incredibly important digital information. (Completely free!)
 - What about your app will require a log-in structure?
+Must log in to use the roulette wheel.
 
 2. CORE FUNCTIONALITY
 -------------------------
-- What are the essential features your app must have?  
+- What are the essential features your app must have?
+A spinning roulette wheel. 
 - What optional features could make your app more interactive or personalized?
+More gambling.
 
 3. SECRET OR PERSONALIZED CONTENT
-
+TBD.
 -------------------------
 - What content will users see after logging in?  
+A scary spinning roulette wheel.
 - Will this content change depending on who is using the app (admin, user, special user?)
+Lower level users have a higher chance to lose on the roulette wheel.
 
 4. USER EXPERIENCE (UX) DESIGN
 -------------------------
 - How should your app look and feel?
+It should feel like a dark and dingy casino.
 - How will users navigate between pages?
+There aren't any pages to navigate. Only a roulette wheel.
 
 5. SECURITY FEATURES
 -------------------------
 - What password and authentication rules will you enforce?  
+Require basic password complexity, and check security level.
 - How will you protect secret pages from unauthorized access?
+When a admin or special user logs in, they will be given access to the secret pages. Basic users will be kicked out if they try to get in.
 
 6. OPTIONAL CREATIVE ENHANCEMENTS
 -------------------------
 - What customization or fun features could users enjoy?
+Cool ASCII art, users may be able to change wheel color.
 - Are there interactive elements, like games, quizzes, or badges, you could include?
+We could include other gambling games other than roulette.
